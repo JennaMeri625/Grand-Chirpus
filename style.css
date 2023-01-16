@@ -111,7 +111,7 @@ a:link, a:visited, a:hover, a:active {
     }
     .circles {
         margin-left: 20px;
-        right: 0;
+        align-self: flex-end;
     }
     .circleBase {
         border-radius: 50%;
